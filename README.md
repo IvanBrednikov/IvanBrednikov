@@ -7,18 +7,17 @@ Major field of studies: Information Systems and Programming (Enterprise)
   
 <h3>Key skills</h3>
 <p>
-C#, Unity 3D, Python, .NET Framework, SQL
+Python, SQL, PyTorch, TensorFlow, Matplotlib, Numpy, pandas, SkLearn, OpenCV, Keras
+
+C#, .NET Framework
 </p>
 
 <h3>Additional skills</h3>
 <p>
-Blender, Adobe Photoshop, Xamarin, HTML
+Unity 3D, Blender, Adobe Photoshop
 </p>
 <h3>Activities</h3>
 <p>
-I`m currently working on my project <a href="https://github.com/IvanBrednikov/FallingCloud" target="_blank">Falling Cloud</a>. <br>
-  It is 2D game develops using by Unity Engine where I learns to use physics and UI toolkit. <br><br>
-
 I`m currently learning Python, neural networks. <br><br>
 </p>
 <!--
