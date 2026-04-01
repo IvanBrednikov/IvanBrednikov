@@ -10,6 +10,8 @@ Major field of studies: Information Systems and Programming (Enterprise)
 Python, SQL, PyTorch, TensorFlow, Matplotlib, Numpy, pandas, SkLearn, OpenCV, Keras
 
 C#, .NET Framework
+
+Linux, Git
 </p>
 
 <h3>Additional skills</h3>
